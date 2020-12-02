@@ -1,0 +1,92 @@
+
+body, html {
+    background:#8FBC8F;
+    height: 100%;
+}
+
+.style{ 
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    
+}
+
+img{
+    height: 80px;
+    width: 230px;
+}
+
+h1{  
+    font-family: arial;
+    color: black;
+    font-weight: 300;
+    font-size: 30px;
+
+}
+
+h2 {
+    font-family: arial;
+    font-size: 25px;
+    margin-top: -0.8em;
+    
+}
+
+
+h3{
+    font-family: arial;
+    font-size: 20px;
+    margin-top: 0.5em;
+}
+
+text{
+    font-family: arial;
+    font-size: 16px;
+}
+
+
+marquee{
+
+    font-family: arial;
+    font-size: 20px;
+    color:#006400;
+    width: 800px;
+    height: 25px;
+    margin-top: 3em;
+    
+
+}
+
+button {
+    border: 1px solid;
+    border-radius: 100px;
+    border-color:#D3D3D3;
+    color: #707070;
+    padding: 40px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 3px;
+    cursor: pointer;
+    margin-top: 3em;
+    margin-bottom: 2em;
+    font-family: arial;
+}
+
+button:hover {
+    background-image: url(mikro.jpg);
+    background-position: 21px 2px;
+    
+}  
+
+
+#Ergebnisse {
+    font-family: arial;
+    font-size: 20px;
+    color: black;
+    margin-bottom: 4em;
+    margin-top: 0.5em;
+}
+
+
+
