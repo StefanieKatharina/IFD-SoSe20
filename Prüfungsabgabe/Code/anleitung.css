@@ -1,0 +1,13 @@
+body, html {
+    background:#ffffff;
+    height: 100%;
+}
+
+.list{
+    font-family: arial;
+}
+.anleitung{
+    padding-left: 24%;
+    padding-top: 4%;
+    
+}
